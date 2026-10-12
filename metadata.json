@@ -1,0 +1,6 @@
+{
+  "name": "Vellore Info Service — Enterprise BPO, RCM & Data Solutions",
+  "description": "Vellore Info Service (VIS) delivers enterprise BPO, e-publishing, healthcare revenue cycle management, data analytics, and cloud data engineering. One Solutions. Endless Possibilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
